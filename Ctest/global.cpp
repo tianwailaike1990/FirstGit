@@ -1,0 +1,1 @@
+int globalPar = 20;
